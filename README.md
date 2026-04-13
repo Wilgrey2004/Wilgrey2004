@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 Perfil Profesional
-[cite_start]Enfocado en crear soluciones mantenibles, con alta capacidad de trabajo en equipo y aprendizaje ágil de nuevas tecnologías[cite: 9]. [cite_start]Especializado en el ecosistema **.NET Core**, **Go** y arquitecturas modernas[cite: 43, 45].
+Enfocado en crear soluciones mantenibles, con alta capacidad de trabajo en equipo y aprendizaje ágil de nuevas tecnologías. Especializado en el ecosistema **.NET Core**, **Go** y arquitecturas modernas.
 
 ---
 
