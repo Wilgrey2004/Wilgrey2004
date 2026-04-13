@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Wilgrey%20Ravelo%20Cruz&fontSize=70&animation=fadeIn" />
   
-  <p><b>🚀 Desarrollador de Software | Full Stack | [cite_start]Backend Specialist</b> [cite: 2]</p>
+  <p><b>🚀 Desarrollador de Software | Full Stack | Backend Specialist</b> </p>
   
   <a href="https://landinpage-wilgreymd.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Click_Here-blueviolet?style=for-the-badge&logo=react" />
