@@ -9,7 +9,7 @@
 </div>
 
 ### 🧠 Sobre mí
-[cite_start]Desarrollador de software enfocado en crear soluciones mantenibles, con buena capacidad para trabajar en equipo y aprender tecnologías nuevas rápidamente[cite: 9]. Me especializo en arquitecturas limpias y sistemas escalables, con una fuerte base en el desarrollo de APIs y gestión de datos.
+Desarrollador de software enfocado en crear soluciones mantenibles, con buena capacidad para trabajar en equipo y aprender tecnologías nuevas rápidamente. Me especializo en arquitecturas limpias y sistemas escalables, con una fuerte base en el desarrollo de APIs y gestión de datos.
 
 ---
 
@@ -33,10 +33,10 @@
 ---
 
 ### 🚀 Proyectos Destacados
-* [cite_start]**📦 StockPro:** Sistema de gestión de inventario construido con **Go** y **Vue**, utilizando inyección de dependencias para una máxima flexibilidad[cite: 38, 39].
-* [cite_start]**🏥 LINKDICOM:** Dashboard médico especializado en radiología para la gestión eficiente de perfiles y visualización de datos[cite: 16, 17].
-* [cite_start]**🎓 Gestión Estudiantil:** Plataforma integral desarrollada con **React** y **Supabase** para el control de calificaciones y profesorado[cite: 40, 41].
-* [cite_start]**💈 Barberia Julio Max:** Landing page de alto impacto visual con diseño moderno utilizando **Vue 3**[cite: 36, 37].
+* **📦 StockPro:** Sistema de gestión de inventario construido con **Go** y **Vue**, utilizando inyección de dependencias para una máxima flexibilidad.
+* **🏥 LINKDICOM:** Dashboard médico especializado en radiología para la gestión eficiente de perfiles y visualización de datos.
+* **🎓 Gestión Estudiantil:** Plataforma integral desarrollada con **React** y **Supabase** para el control de calificaciones y profesorado.
+* **💈 Barberia Julio Max:** Landing page de alto impacto visual con diseño moderno utilizando **Vue 3**
 
 ---
 
@@ -56,9 +56,9 @@
 ---
 
 ### 🌍 Formación & Idiomas
-* [cite_start]🎓 **Educación:** Técnico Superior en Desarrollo de Software - **ITLA** (2023 - 2026)[cite: 11, 14].
-* [cite_start]🇪🇸 **Español:** Nativo[cite: 53, 54].
-* [cite_start]🇺🇸 **Inglés:** A2[cite: 55].
+* 🎓 **Educación:** Técnico Superior en Desarrollo de Software - **ITLA** (2023 - 2026).
+* 🇪🇸 **Español:** Nativo.
+* 🇺🇸 **Inglés:** A2.
 
 ---
 
