@@ -4,49 +4,43 @@
   <p align="center">
     <img src="https://img.shields.io/badge/-Full_Stack_Developer-black?style=for-the-badge&logo=codeforces&logoColor=white" />
     <img src="https://img.shields.io/badge/-Backend_Specialist-black?style=for-the-badge&logo=serverless&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ITLA_Alumni-black?style=for-the-badge&logo=education&logoColor=white" />
   </p>
 </div>
 
 ### 🧠 Sobre mí
-Desarrollador de software enfocado en crear soluciones mantenibles, con buena capacidad para trabajar en equipo y aprender tecnologías nuevas rápidamente. Me especializo en arquitecturas limpias y sistemas escalables, con una fuerte base en el desarrollo de APIs y gestión de datos.
+Desarrollador de software enfocado en crear soluciones mantenibles, con gran capacidad para el trabajo en equipo y aprendizaje ágil. Me especializo en arquitecturas limpias y sistemas escalables, con experiencia sólida en **.NET Core**, **Go** y **Vue 3**.
 
 ---
 
 ### 💻 Tecnologías & Skills
 
-**Lenguajes de Programación**
+**Lenguajes & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,go,ts,sql,cpp,py" />
+  <img src="https://skillicons.dev/icons?i=cs,go,ts,sql,laravel,dotnet,supabase,nodejs" />
 </p>
 
-**Frameworks & Cloud**
+**Frontend & Herramientas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,vue,react,angular,nodejs,laravel,supabase,docker" />
-</p>
-
-**Herramientas de Desarrollo**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,netlify,mysql,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,tailwind,docker,git,github,visualstudio" />
 </p>
 
 ---
 
 ### 🚀 Proyectos Destacados
-* **📦 StockPro:** Sistema de gestión de inventario construido con **Go** y **Vue**, utilizando inyección de dependencias para una máxima flexibilidad.
-* **🏥 LINKDICOM:** Dashboard médico especializado en radiología para la gestión eficiente de perfiles y visualización de datos.
-* **🎓 Gestión Estudiantil:** Plataforma integral desarrollada con **React** y **Supabase** para el control de calificaciones y profesorado.
-* **💈 Barberia Julio Max:** Landing page de alto impacto visual con diseño moderno utilizando **Vue 3**
+* **📦 StockPro:** Sistema de gestión de inventario (Go + Vue) con arquitectura basada en inyección de dependencias.
+* **🏥 LINKDICOM:** Dashboard médico para radiología y gestión de perfiles profesionales.
+* **🎓 Gestión Estudiantil:** Plataforma integral (React + Supabase) para control de calificaciones y profesorado.
+* **💈 Barbería Julio Max:** Landing page de alto impacto visual con diseño moderno en Vue 3.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilgrey2004&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilgrey2004&show_icons=true&theme=tokyonight&border_radius=10&locale=es" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgrey2004&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgrey2004&layout=compact&theme=tokyonight&border_radius=10&hide=html,css&locale=es" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -63,7 +57,7 @@ Desarrollador de software enfocado en crear soluciones mantenibles, con buena ca
 ---
 
 <div align="center">
-  <h3>📫 ¿Hablamos?</h3>
+  <h3>📫 Conectemos</h3>
   <a href="mailto:Apro24470@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/wilgrey-ravelo-cruz-50869232b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://landinpage-wilgreymd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=react" /></a>
